@@ -12,7 +12,8 @@ use Inertia\Inertia;
 use Inertia\Response;
 
 class ProfileController extends Controller
-{
+{ 
+    //php artisan make:controller
     /**
      * Display the user's profile form.
      */
